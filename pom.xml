@@ -12,7 +12,7 @@
 
     <groupId>com.hp</groupId>
     <artifactId>common-bom</artifactId>
-    <version>1.0-0-sp3-SNAPSHOT</version>
+    <version>1.0.0-sp3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <properties>
