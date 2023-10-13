@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.luban</groupId>
+    <groupId>com.hp</groupId>
     <artifactId>common-bom</artifactId>
     <version>1.0-0-sp2-SNAPSHOT</version>
     <packaging>pom</packaging>
