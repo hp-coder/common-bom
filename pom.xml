@@ -38,7 +38,7 @@
         <!--utilities-->
         <commons-fileupload.version>1.3.1</commons-fileupload.version>
         <commons-upload.version>1.5</commons-upload.version>
-        <commons-lang3.version>3.4</commons-lang3.version>
+        <commons-lang3.version>3.13.0</commons-lang3.version>
         <guava.version>33.0.0-jre</guava.version>
         <jjwt.version>0.9.0</jjwt.version>
         <fastjson.version>2.0.33</fastjson.version>
@@ -51,7 +51,7 @@
         <vavr.version>0.9.0</vavr.version>
         <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
         <org.jetbrains.annotations.version>23.0.0</org.jetbrains.annotations.version>
-        <knife4j.version>4.4.0</knife4j.version>
+        <knife4j.version>4.5.0</knife4j.version>
     </properties>
 
     <developers>
