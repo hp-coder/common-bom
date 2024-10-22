@@ -14,7 +14,7 @@
     <groupId>com.hp</groupId>
     <artifactId>common-bom</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1-sp3.2-SNAPSHOT</version>
+    <version>1.0.2-sp3.2-SNAPSHOT</version>
     <description>SpringBoot3.2.1 + JDK 21</description>
 
     <properties>
@@ -51,6 +51,7 @@
         <vavr.version>0.9.0</vavr.version>
         <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
         <org.jetbrains.annotations.version>23.0.0</org.jetbrains.annotations.version>
+        <knife4j.version>4.4.0</knife4j.version>
     </properties>
 
     <developers>
@@ -155,6 +156,11 @@
                 <groupId>org.jetbrains</groupId>
                 <artifactId>annotations</artifactId>
                 <version>${org.jetbrains.annotations.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.xiaoymin</groupId>
+                <artifactId>knife4j-openapi3-jakarta-spring-boot-starter</artifactId>
+                <version>${knife4j.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
