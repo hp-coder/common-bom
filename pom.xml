@@ -28,11 +28,11 @@
         <maven.compiler.target>21</maven.compiler.target>
         <!--spring family-->
         <!--https://spring.io/projects/spring-boot/#learn-->
-        <spring-boot.version>3.2.1</spring-boot.version>
+        <spring-boot.version>3.3.4</spring-boot.version>
         <!--https://spring.io/projects/spring-cloud/-->
-        <spring-cloud.version>2023.0.0</spring-cloud.version>
+        <spring-cloud.version>2023.0.3</spring-cloud.version>
         <!--https://github.com/alibaba/spring-cloud-alibaba/wiki/版本说明-->
-        <spring-cloud-alibaba.version>2022.0.0.0-RC2</spring-cloud-alibaba.version>
+        <spring-cloud-alibaba.version>2023.0.3.2</spring-cloud-alibaba.version>
         <!--https://docs.spring.io/spring-statemachine/docs/3.2.1/reference/#introduction-->
         <spring-statemachine.version>3.2.1</spring-statemachine.version>
         <!--utilities-->
