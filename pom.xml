@@ -15,7 +15,7 @@
     <artifactId>common-bom</artifactId>
     <packaging>pom</packaging>
     <version>1.0.2-SNAPSHOT</version>
-    <description>SpringBoot3.3.4+ JDK 21</description>
+    <description>SpringBoot3.3.4 + JDK 21</description>
 
     <properties>
         <!--build-->
@@ -44,6 +44,7 @@
         <fastjson.version>2.0.33</fastjson.version>
         <hutool-all.version>5.8.24</hutool-all.version>
         <!--components-->
+        <mysql.version>8.2.0</mysql.version>
         <druid-starter.version>1.2.4</druid-starter.version>
         <querydsl.version>5.0.0</querydsl.version>
         <mapstruct.version>1.5.3.Final</mapstruct.version>
