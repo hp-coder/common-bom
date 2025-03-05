@@ -14,8 +14,8 @@
     <groupId>com.hp</groupId>
     <artifactId>common-bom</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.2-SNAPSHOT</version>
-    <description>SpringBoot3.3.4 + JDK 21</description>
+    <version>1.0.2-sp3.2-SNAPSHOT</version>
+    <description>SpringBoot3.2.1 + JDK 21</description>
 
     <properties>
         <!--build-->
@@ -28,7 +28,7 @@
         <maven.compiler.target>21</maven.compiler.target>
         <!--spring family-->
         <!--https://spring.io/projects/spring-boot/#learn-->
-        <spring-boot.version>3.3.4</spring-boot.version>
+        <spring-boot.version>3.2.1</spring-boot.version>
         <!--https://spring.io/projects/spring-cloud/-->
         <spring-cloud.version>2023.0.3</spring-cloud.version>
         <!--https://github.com/alibaba/spring-cloud-alibaba/wiki/版本说明-->
