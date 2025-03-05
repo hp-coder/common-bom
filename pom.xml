@@ -7,15 +7,15 @@
         <!--使用 spring-boot-starter-dependencies 在REST开发上需要对注解的value指定值-->
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.2.1</version>
+        <version>3.3.4</version>
         <relativePath/>
     </parent>
 
     <groupId>com.hp</groupId>
     <artifactId>common-bom</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.2-sp3.2-SNAPSHOT</version>
-    <description>SpringBoot3.2.1 + JDK 21</description>
+    <version>1.0.2-SNAPSHOT</version>
+    <description>SpringBoot3.3.4+ JDK 21</description>
 
     <properties>
         <!--build-->
